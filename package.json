@@ -1,9 +1,11 @@
 {
   "name": "farooqui786-currency-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "currency.js",
   "type": "module",
+  "publishConfig": {"access": "public"},
+  "bin": "currency.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
